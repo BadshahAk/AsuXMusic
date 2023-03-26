@@ -8,18 +8,18 @@
   "env": {
     "BOT_TOKEN": {
       "description": "ᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ ғʀᴏᴍ @Botfather",
-      "value": "",
+      "value": "5305723083:AAESS_sjS2DLdeG32UYZQSqXZz7yhr2cHqc",
       "required": true
     },
     "OWNER_ID": {
       "description": "ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ ᴏғ ᴛʜᴇ ᴘᴇʀsᴏɴ ᴡʜᴏ ᴡɪʟʟ ᴋɴᴏᴡɴ ᴀs ᴏᴡɴᴇʀ ᴏғ ᴛʜᴇ ʙᴏᴛ.",
-      "value": "5938660179",
+      "value": "5617001475",
       "required": true
     },
     "SESSION_NAME": {
       "description": "ᴘʏʀᴏɢʀᴀᴍ- v1 sᴛʀɪɴɢ sᴇssɪᴏɴ ᴏғ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ",
       "required": true,
-      "value": ""
+      "value": "BQCoxvz-nw-y6oSI8ccd8po4cGT7eMsj-LASV3N2VTDn9_Xzq_q4dpOPAs1spNR0cyVCpxS1P7VyDvij2dCDeoxc9xPYW_HZ-yzZt-riRhpPy0FOT1am_5EBGT1NsDQAd19sJvw-jvwAKNBU5hm2jefmnc3ag41tWyOdvPz_BUiV3OTdS4m-8jTgtFcM8ezsYphOaskNLgNfmLb8oTAy30d1sp5rS3fk-YIIZl650WV5jjD-9vrmbGDMmeJvadRm9LbuASYd--CBmVTblopM5b0EvfUSHBjxv5fvOtYVhhygQVyvrparTtM548omCFViLjz3xwwEfWfHfylAvmSeJswGAAAAAVi91V8A"
     }
   },
   "buildpacks": [
